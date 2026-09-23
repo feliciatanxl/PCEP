@@ -1,0 +1,6 @@
+print("Total cost of air tickets:", 450 * 5)
+print("Hotel expenses for five days:", 120 * 2 * 5)
+print("Total cost of the trip:", (450 * 5) + (120 * 2 * 5) + 1050)
+print("Food expenses for each day:", 1050 / 5)
+print("Hotel expenses incurred by the four friends:", (120 * 5) + (120 * 5 / 2))
+print("The total amount your friends have to pay you:", (120 * 5 + 120 * 5 / 2) + 1050 / 5 * 4 + 450 * 4)
